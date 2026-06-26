@@ -1,0 +1,2 @@
+#include "iadapter.h"
+
